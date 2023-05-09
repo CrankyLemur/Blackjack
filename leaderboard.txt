@@ -1,10 +1,3 @@
-Blackjack God: 2000
-Carl: 1400
-Borat: 50
-Alex: 50
-Cunk: 10
-Murat: 10
-Troy: 0
-Amrit: 0
-Morl: 0
-Wario: 0
+Gandalf: 6000
+Legolas: 2001
+Gimli: 2000
